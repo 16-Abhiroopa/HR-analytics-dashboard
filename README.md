@@ -93,6 +93,3 @@ HR-Analytics-Dashboard/
 ## 👤 Author
 
 **Abhiroopa R R**
-
-- LinkedIn: *(Add your LinkedIn profile link)*
-- GitHub: *(Add your GitHub profile link)*
